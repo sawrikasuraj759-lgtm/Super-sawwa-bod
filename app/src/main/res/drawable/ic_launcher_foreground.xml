@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded keyboard outline -->
+    <path
+        android:fillColor="#3A1C68"
+        android:strokeColor="#C084FC"
+        android:strokeWidth="2.5"
+        android:pathData="M32,36 h44 a10,10 0 0 1 10,10 v22 a10,10 0 0 1 -10,10 h-44 a10,10 0 0 1 -10,-10 v-22 a10,10 0 0 1 10,-10 z" />
+    <!-- Row 1 keys -->
+    <path
+        android:fillColor="#E9D5FF"
+        android:pathData="M31,43 h6 v5 h-6 z M41,43 h6 v5 h-6 z M51,43 h6 v5 h-6 z M61,43 h6 v5 h-6 z M71,43 h6 v5 h-6 z" />
+    <!-- Row 2 keys -->
+    <path
+        android:fillColor="#E9D5FF"
+        android:pathData="M33,52 h6 v5 h-6 z M43,52 h6 v5 h-6 z M53,52 h6 v5 h-6 z M63,52 h6 v5 h-6 z M73,52 h6 v5 h-6 z" />
+    <!-- Space bar -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M41,61 h26 v5 h-26 z" />
+</vector>

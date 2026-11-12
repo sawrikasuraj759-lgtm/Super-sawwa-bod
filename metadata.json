@@ -1,0 +1,6 @@
+{
+  "name": "SoftBoard",
+  "description": "Smart Keyboard, Smarter You - Modern customizable neon keyboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
